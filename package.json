@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-challenge-lc",
+  "version": "1.0.0",
+  "description": "Qr Code Challenge LC",
+  "main": "index.html",
+  "scripts": {
+    "test": "test",
+    "compile-sass": "node-sass style.scss style.css"
+  },
+  "author": "Laura Ciasca",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
+
